@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dd3fdf6-1729-4408-8ada-0a04efae41b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/atividades4/exemplo_propriedades.py" afterDir="false" />
+    <list default="true" id="4dd3fdf6-1729-4408-8ada-0a04efae41b4" name="Default Changelist" comment="segundo commit">
+      <change afterPath="$PROJECT_DIR$/atividades4/paralelepipedo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/atividades4/exemplo_propriedades.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/atividades4/paralelepipedo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/atividades3/atividade3_6.py" />
         <option value="$PROJECT_DIR$/atividades3/atividade3_7.py" />
         <option value="$PROJECT_DIR$/atividades4/exemplo_propriedades.py" />
+        <option value="$PROJECT_DIR$/atividades4/paralelepipedo.py" />
       </list>
     </option>
   </component>
@@ -124,28 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exemplo_propriedades">
-    <configuration name="atividade3_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="atividades" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades3/atividade3_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.paralelepipedo">
     <configuration name="atividade3_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="atividades" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,13 +219,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="paralelepipedo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="atividades" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades4/paralelepipedo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.paralelepipedo" />
         <item itemvalue="Python.exemplo_propriedades" />
         <item itemvalue="Python.atividade3_7" />
         <item itemvalue="Python.atividade3_6" />
         <item itemvalue="Python.atividade3_3" />
-        <item itemvalue="Python.atividade3_1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +261,14 @@
       <option name="presentableId" value="Default" />
       <updated>1557760448974</updated>
     </task>
+    <task id="LOCAL-00001" summary="segundo commit">
+      <created>1557853784060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557853784060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -264,26 +282,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1280" height="997" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18471338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840763" weight="0.2897196" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3995327" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840763" visible="true" weight="0.2885514" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840763" weight="0.3995327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32906976" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32906976" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159234" side_tool="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159234" side_tool="true" weight="0.3995327" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="segundo commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/atividades1/atividade1_3.py">
@@ -461,6 +482,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atividades4/paralelepipedo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
