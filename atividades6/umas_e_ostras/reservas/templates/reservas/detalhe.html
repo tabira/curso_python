@@ -1,0 +1,6 @@
+<h1>{{ cliente.nome }}</h1>
+<ul>
+    {% for reserva in cliente.reservas.all %}
+        <li>{{ reserva.data_evento }} - {{ reserva.pessoas }}</li>
+    {% endfor %}
+</ul>
