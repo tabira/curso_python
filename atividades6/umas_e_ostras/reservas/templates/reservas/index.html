@@ -9,7 +9,8 @@
 <!--{%else%}-->
 <!--<p>Nenhum cliente registrado</p>-->
 <!--{%endif%}-->
-
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'reservas/style.css' %}">
 
 {% if ultimos_clientes %}
     <ul>
